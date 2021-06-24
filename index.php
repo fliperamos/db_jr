@@ -5,5 +5,3 @@ ini_set("error_reporting", E_ALL);
 
 require __DIR__ . "/vendor/autoload.php";
 
-use Source\Core\Connect;
-

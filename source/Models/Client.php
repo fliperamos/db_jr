@@ -19,7 +19,7 @@ class Client extends Model
 
 
     /**
-     *  Criar dados no DB
+     *  Create db data
      * @param string $f_name
      * @param string $l_name
      * @param string $email
