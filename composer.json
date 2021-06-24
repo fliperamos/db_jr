@@ -1,0 +1,14 @@
+{
+  "name": "db/junior",
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Boot/Config.php"
+    ]
+  }
+}
